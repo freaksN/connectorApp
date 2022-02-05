@@ -1,0 +1,15 @@
+com\demiconconnectorapp\utils\FormatUtils.class
+com\demiconconnectorapp\controllers\ConnectorController.class
+com\demiconconnectorapp\models\Geo.class
+com\demiconconnectorapp\jobs\JobTask.class
+com\demiconconnectorapp\models\Timezone.class
+com\demiconconnectorapp\models\ResultsWrapper.class
+com\demiconconnectorapp\models\UserInfoResponse.class
+com\demiconconnectorapp\services\RandomUserWebClientService.class
+com\demiconconnectorapp\models\Street.class
+com\demiconconnectorapp\repositories\RandomUserRepository.class
+com\demiconconnectorapp\models\Location.class
+com\demiconconnectorapp\services\impl\RandomUserWebClientServiceImpl.class
+com\demiconconnectorapp\models\RandomUser.class
+com\demiconconnectorapp\models\UserInfo.class
+com\demiconconnectorapp\DemiconConnectorAppApplication.class
